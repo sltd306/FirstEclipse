@@ -6,6 +6,8 @@ public class ClassA {
 		ClassA a = new ClassA();
 		
 		ClassA b= new ClassA();
+		
+		ClassA c = new ClassA();
 	}
 
 }
